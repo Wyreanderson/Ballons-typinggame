@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((400, 720))
 #fps
 clock = pygame.time.Clock()
 
-#loop 
+#window loop 
 running = True
 while running:
     for event in pygame.event.get():
